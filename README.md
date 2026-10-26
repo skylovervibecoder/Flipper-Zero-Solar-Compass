@@ -1,4 +1,7 @@
 # Flipper-Zero-Solar-Compass
+
+![solarcompass](sc.png)
+
 Flipper Zero offline compass apps.
 
 **Solar Compass v1.0** is a solar-based compass application for the Flipper Zero, created by **Marcopiiit**.
